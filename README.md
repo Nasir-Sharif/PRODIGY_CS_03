@@ -17,8 +17,8 @@ Follow these steps to set up and run the project in Visual Studio Code (VS Code)
 ### Step 1: Clone the Repository  
 First, clone the repository to your local machine using the following command:  
 
-git clone https://github.com/yourusername/password-complexity-checker.git  
-cd password-complexity-checker  
+git clone https://github.com/Nasir-Sharif/PRODIGY_CS_03.git
+
 ### Step 2: Set Up a Virtual Environment  
 Create a virtual environment to manage dependencies:  
 
